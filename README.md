@@ -1,6 +1,6 @@
 # Least-Cost Modelling of Gravettian Palaeocoastal Accessibility
 
-**Cova de la Barriada · Serra Gelada, Spain**
+**Cova de la Barriada · Benidorm, Spain**
 
 ![Final cartographic output](FIGURES/final_map.png)
 
