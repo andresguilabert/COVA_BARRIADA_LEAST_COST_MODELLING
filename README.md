@@ -1,12 +1,13 @@
 # Least-Cost Modelling of Gravettian Palaeocoastal Accessibility
 
-**Cova de la Barriada · Benidorm, Spain**
-
+**GIS-based reconstruction and least-cost accessibility modelling of the Gravettian palaeocoast surrounding Cova de la Barriada ( Benidorm, Spain )**
+<br>
+<br>
 <p align="center">
 <img src="FIGURES/COVA_BARRIADA_LAYOUT.png" width="600">
 </p>
+<br>
 
-GIS-based reconstruction and least-cost accessibility modelling of the Gravettian palaeocoast surrounding Cova de la Barriada.
 
 ---
 
