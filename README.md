@@ -4,6 +4,9 @@
 
 ![Final cartographic output](FIGURES/COVA_BARRIADA_LAYOUT.png)
 
+
+<img src="FIGURES/final_map.png" width="1200">
+
 GIS-based reconstruction and least-cost accessibility modelling of the Gravettian palaeocoast surrounding Cova de la Barriada.
 
 ---
