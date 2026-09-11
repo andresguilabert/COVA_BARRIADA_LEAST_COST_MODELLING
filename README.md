@@ -2,7 +2,7 @@
 
 **Cova de la Barriada · Benidorm, Spain**
 
-![Final cartographic output](FIGURES/COVA_BARRIADA_LAYOUT_README.png)
+![Final cartographic output](FIGURES/COVA_BARRIADA_LAYOUT.png)
 
 GIS-based reconstruction and least-cost accessibility modelling of the Gravettian palaeocoast surrounding Cova de la Barriada.
 
